@@ -6,30 +6,35 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE  ✔️
+- les types de bases  ✔️
+- comment et pourquoi étendre une interface  ✔️
+- les classes et les decorators  ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté  ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+```typescript
+// fonction renvoyant le carré d'un nombre, resoudra une erreur si un autre type qu'un "number" est donné en parametre
+const square = (num: number): number => num*num 
+```
+
+### Utilisation dans un projet  ✔️
 
 [lien github](...)
 
-Description :
+Description : dans un projet privé
 
 ### Utilisation en production si applicable❌ / ✔️
 
 [lien du projet](...)
 
-Description :
+Description : 
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel  ✔️
 
-Description :
+Description : pour un gestionnaire de liste
 
 ## 🌐 J'utilise des ressources
 
