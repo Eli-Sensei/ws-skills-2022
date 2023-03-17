@@ -6,26 +6,27 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage  ✔️
+- les normes `ecmascript`  ✔️
+- l'utilisation de l'`asynchrone`  ✔️
+- les spécifités du mot-clef `this`  ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté  ✔️
 
 ```javascript
-(e) => mc2;
+// fonction flêché renvoyant le carré d'un nombre
+(e) => e*e;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[lien github](https://github.com/Eli-Sensei/canvasProject)
 
-Description :
+Description : repo contenant tout mes petits projet JS/Canvas
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production  ✔️
 
 [lien du projet](...)
 
